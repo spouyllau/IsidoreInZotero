@@ -1,0 +1,45 @@
+	{
+		"name": "ISIDORE, ¿Ayúdame a encontrar lo que este autor ha publicado?",
+		"alias": "ISIDORE",
+		"icon": "https://isidore.science/favicon.ico",
+		"_urlTemplate": "https://isidore.science/s?q=author:\"{rft:aufirst?} {rft:aulast?}\"",
+		"description": "ISIDORE es un buscador académico para los humanidades y ciencias sociales",
+		"hidden": false,
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#",
+			"": "http://a9.com/-/spec/opensearch/1.1/"
+		},
+		"_iconSourceURI": "https://isidore.science/favicon.ico"
+	},
+	{
+		"name": "ISIDORE, ¿qué tienes sobre este autor?",
+		"alias": "ISIDORE",
+		"icon": "https://isidore.science/favicon.ico",
+		"_urlTemplate": "https://isidore.science/s?q=\"{rft:aufirst?}+{rft:aulast?}\"",
+		"description": "ISIDORE es un buscador académico de humanidades y ciencias sociales.",
+		"hidden": false,
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#",
+			"": "http://a9.com/-/spec/opensearch/1.1/"
+		},
+		"_iconSourceURI": "https://isidore.science/favicon.ico"
+	},
+	{
+		"_name": "ISIDORE, y con el DOI ?",
+		"_alias": "ISIDORE",
+		"_description": "ISIDORE est le moteur de recherche académique des SHS.",
+		"_icon": "https://isidore.science/favicon.ico",
+		"_hidden": false,
+		"_urlTemplate": "https://isidore.science/s?q=\"{z:DOI}\"",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#",
+			"": "http://a9.com/-/spec/opensearch/1.1/"
+		},
+		"_iconSourceURI": "https://isidore.science/favicon.ico"
+	},

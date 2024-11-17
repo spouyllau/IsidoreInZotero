@@ -1,0 +1,45 @@
+	{
+		"name": "ISIDORE, help me find what this author has published",
+		"alias": "ISIDORE",
+		"icon": "https://isidore.science/favicon.ico",
+		"_urlTemplate": "https://isidore.science/s?q=author:\"{rft:aufirst?} {rft:aulast?}\"",
+		"description": "ISIDORE is an academic search engine for arts and humanities in open science",
+		"hidden": false,
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#",
+			"": "http://a9.com/-/spec/opensearch/1.1/"
+		},
+		"_iconSourceURI": "https://isidore.science/favicon.ico"
+	},
+	{
+		"name": "ISIDORE, what do you have about this author?",
+		"alias": "ISIDORE",
+		"icon": "https://isidore.science/favicon.ico",
+		"_urlTemplate": "https://isidore.science/s?q=\"{rft:aufirst?}+{rft:aulast?}\"",
+		"description": "ISIDORE is an academic search engine for arts and humanities in open science",
+		"hidden": false,
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#",
+			"": "http://a9.com/-/spec/opensearch/1.1/"
+		},
+		"_iconSourceURI": "https://isidore.science/favicon.ico"
+	},
+	{
+		"_name": "ISIDORE, have you index the document with DOI ?",
+		"_alias": "ISIDORE",
+		"_description": "ISIDORE est le moteur de recherche académique des SHS.",
+		"_icon": "https://isidore.science/favicon.ico",
+		"_hidden": false,
+		"_urlTemplate": "https://isidore.science/s?q=\"{z:DOI}\"",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#",
+			"": "http://a9.com/-/spec/opensearch/1.1/"
+		},
+		"_iconSourceURI": "https://isidore.science/favicon.ico"
+	},
