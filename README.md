@@ -1,5 +1,7 @@
 # Connecteurs ISIDORE pour Zotero
 
+[![DOI](https://zenodo.org/badge/889953126.svg)](https://doi.org/10.5281/zenodo.14176082)
+
 ## Enrichir sa bibliothèque Zotero avec ISIDORE
 
 [Zotero](https://zotero.org) permet d'utiliser des moteurs de recherche pour trouver ou completer des références bibliographiques. Nous proposons ici deux connecteurs pour Zotero permettant d'utiliser [ISIDORE](https://isidore.science) pour completer sa bibliothèque avec des références à partir de différentes recherches sur les auteurs.
